@@ -40,7 +40,6 @@ All player scan counts:
 ```bash
 curl http://localhost:3000/stats/players
 ```
-
 Single player scan count:
 
 ```bash
